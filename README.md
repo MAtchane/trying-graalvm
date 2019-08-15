@@ -6,6 +6,6 @@ A simple project exploring the GraalVM capabilities.
 
 See the [Official Getting Started](https://www.graalvm.org/docs/getting-started/)
 
-### Installing
+## Installing
 
 TBA
